@@ -1,6 +1,66 @@
-<mvc:View controllerName="form.controller.View1"
+
+    <mvc:View xmlns:form="sap.ui.layout.form" controllerName="form.controller.View1"
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
-    <Page id="page" title="{i18n>title}">
+    <Page id="page" title="{i18n>title}" floatingFooter="true" titleAlignment="Center">
+        <Panel expandable="true" expanded="false" headerText="Information" class="sapUiTinyMarginTop">
+            <form:SimpleForm layout="ColumnLayout" columnsXL="4" columnsL="4" columnsM="3" >
+        <form:content>
+        <Label text="info"></Label>
+        <Input />
+        <Label text="info"></Label>
+        <Input />
+        <Label text="info"></Label>
+        <Input />
+        <Label text="info"></Label>
+        <Input />
+        <Label text="info"></Label>
+        <Input />
+        </form:content>
+        </form:SimpleForm>
+        </Panel>
+
+        <Panel expandable="true" expanded="false" headerText="Information" class="sapUiTinyMarginTop">
+            <form:SimpleForm layout="ColumnLayout" columnsXL="4" columnsL="4">
+        <form:content>
+        <Label text="info"></Label>
+        <Input />
+        <Label text="info"></Label>
+        <Input />
+        <Label text="info"></Label>
+        <Input />
+        <Label text="info"></Label>                    
+        <Input />
+        <Label text="info"></Label>
+        <Input />
+        </form:content>
+        </form:SimpleForm>
+        </Panel>
+
+        <Panel expandable="true" expanded="false" headerText="Information" class="sapUiTinyMarginTop">
+        <form:SimpleForm layout="ColumnLayout" columnsXL="4" columnsL="4">
+        <form:content>
+        <Label text="info"></Label>
+        <Input />
+        <Label text="info"></Label>
+        <Input />
+        <Label text="info"></Label>
+        <Input />
+        <Label text="info"></Label>
+        <Input />
+        <Label text="info"></Label>
+        <Input />
+        </form:content>
+        </form:SimpleForm>
+        </Panel>
+                          
+        <footer>
+        <OverflowToolbar >
+        <ToolbarSpacer ></ToolbarSpacer>
+        <Button text="submit" width="300px" type="Emphasized"></Button>
+        <ToolbarSpacer ></ToolbarSpacer>
+        </OverflowToolbar>
+        </footer>
     </Page>
 </mvc:View>
+   
