@@ -162,7 +162,7 @@
                         <Button text="Add Title" icon="sap-icon://add" press="opentitle" iconFirst="false" type="Emphasized"></Button>
                         <ToolbarSpacer ></ToolbarSpacer>
                         <Button text="Preview" icon="sap-icon://show" press="onAddInput"></Button>
-                        <Button text="Send"  type="Emphasized" press="sendform"></Button>
+                        <Button text="Send" id="send"  type="Emphasized" press="sendform"></Button>
                     </OverflowToolbar>
                 </footer>
             </Page>

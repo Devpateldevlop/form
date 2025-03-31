@@ -258,51 +258,38 @@ sap.ui.define([
 
         },sendform:function(){
             debugger
-     
+            this.getView().byId("send").setEnabled(false)
+            var payload=this.getView().getModel("selected").getData()
+            
+
+            fetch("https://formapi-phi.vercel.app/api/form", {
+                method: "DELETE",
+                headers: { "Content-Type": "application/json" }
+            })
+            .then(response => response.json())
+            .then(data => {
+                
+            })
+            .catch(error => {
+                
+            });
+
+
             fetch("https://formapi-phi.vercel.app/api/form", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify(payload)
-              })
-                .then(response => response.json())
-                .then(data => {
-                 
-                })
-                .catch(error => {
+            })
+            .then(response => response.json())
+            .then(data => {
                 
-                });
-
-                // fetch("https://formapi-phi.vercel.app/api/form", {
-                //   method: "GET",
-                //   headers: {
-                //     "Content-Type": "application/json"
-                //   }
-                // })
-                //   .then(response => {
-                //     if (!response.ok) {
-                //       throw new Error("Failed to fetch Calendar Data");
-                //     }
-                //     return response.json();
-                //   })
-                //   .then(dataLeave => {
-                //     sap.ui.core.BusyIndicator.hide();
-                //     this.getOwnerComponent().getModel("LeaveRequestDataEmloyee").setData(dataLeave.leaveHistory);
-                //     this.getOwnerComponent().getModel("LeaveRequestDataEmloyee").refresh(true);
-                //     if (isCalendorController) {
-                //       this._setPunchHistory();
-                //     }
-                //   })
-                //   .catch(error => {
-                //     sap.ui.core.BusyIndicator.hide();
-                //     sap.m.MessageToast.show("Error occurred: " + error.message);
-                //     if (isCalendorController) {
-                //       this._setPunchHistory();
-                //     }
-                //   });
+            })
+            .catch(error => {
+                
+            });
+            new sap.m.MessageBox.information("The Form Send In This"+`https://detfrom.netlify.app/`)
             
-           
-
-
         }
+        
     });
 });
