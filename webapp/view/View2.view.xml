@@ -1,4 +1,4 @@
-<!-- <mvc:View xmlns:tnt="sap.tnt"
+<mvc:View xmlns:tnt="sap.tnt"
     xmlns:cssgrid="sap.ui.layout.cssgrid" controllerName="form.controller.View2"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns:layout="sap.ui.layout"
@@ -6,12 +6,12 @@
     xmlns="sap.m"
     xmlns:m="sap.m">
 
-    <f:FlexibleColumnLayout defaultTransitionNameMidColumn="slide" id="cl" layout="OneColumn">
+    <f:FlexibleColumnLayout defaultTransitionNameMidColumn="slide" id="" layout="OneColumn">
         <f:beginColumnPages>
 
-            <Page id="pag"  showHeader="false" title="" enableScrolling="false" titleAlignment="Center" floatingFooter="true">
+            <Page id=""  showHeader="false" title="" enableScrolling="false" titleAlignment="Center" floatingFooter="true">
                 <tnt:ToolHeader >
-                    <Title text="CREATE FORM" wrapping="false" id="productName">
+                    <Title text="CREATE FORM" wrapping="false" id="">
                         <layoutData>
                             <OverflowToolbarLayoutData priority="Disappear"/>
                         </layoutData>
@@ -29,7 +29,7 @@
 
                     <ScrollContainer vertical="true" horizontal="true" height="500px">
                         <content>
-                            <layout:Grid id="maingl" class="sapUiSmallMarginTop" content="{path:'formlab>/',length:500}">
+                            <layout:Grid id="" class="sapUiSmallMarginTop" content="{path:'formlab>/',length:500}">
                                 <layout:content>
                                     <f:Card>
                                         <f:content>
@@ -99,7 +99,7 @@
                                 </layout:content>
                             </layout:Grid> -->
                   
-                            <f:GridContainer id="grid1" snapToRow="true" items="{path:'selected>/',length:500}" >
+                            <f:GridContainer id="" snapToRow="true" items="{path:'selected>/',length:500}" >
 
                                 <f:layout>
                                     <f:GridContainerSettings rowSize="84px" columnSize="100px" gap="8px" />
@@ -157,4 +157,4 @@
         </Page>
         </f:endColumnPages>
     </f:FlexibleColumnLayout>
-</mvc:View> -->
+</mvc:View>
