@@ -1,27 +1,11 @@
-
-    <mvc:View xmlns:form="sap.ui.layout.form" controllerName="form.controller.View1"
-    xmlns:tnt="sap.tnt"
-    xmlns="sap.m"
-     xmlns:cssgrid="sap.ui.layout.cssgrid" 
+<!-- <mvc:View xmlns:tnt="sap.tnt"
+    xmlns:cssgrid="sap.ui.layout.cssgrid" controllerName="form.controller.View2"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns:layout="sap.ui.layout"
     xmlns:f="sap.f"
- 
+    xmlns="sap.m"
     xmlns:m="sap.m">
-    <Page id="page" title="{i18n>title}" floatingFooter="true" titleAlignment="Center" visible="false">
-       
-        <footer>
-        <OverflowToolbar >
-        <ToolbarSpacer ></ToolbarSpacer>
-        <Button text="submit" width="300px" type="Emphasized"></Button>
-        <ToolbarSpacer ></ToolbarSpacer>
-        </OverflowToolbar>
-        </footer>
-    </Page>
 
-    <Page  id="page2" showHeader="false" visible="false">
-    
-    
     <f:FlexibleColumnLayout defaultTransitionNameMidColumn="slide" id="cl" layout="OneColumn">
         <f:beginColumnPages>
 
@@ -173,11 +157,4 @@
         </Page>
         </f:endColumnPages>
     </f:FlexibleColumnLayout>
-
-    </Page>
-
-
-
-    
-</mvc:View>
-   
+</mvc:View> -->

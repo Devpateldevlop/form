@@ -1,0 +1,1165 @@
+[
+    {
+        "label": "FullName",
+        "inputType": "Text"
+    },
+    {
+        "label": "First Name",
+        "inputType": "Text"
+    },
+    {
+        "label": "Last Name",
+        "inputType": "Text"
+    },
+    {
+        "label": "Gender",
+        "inputType": "Text"
+    },
+    {
+        "label": "DOB",
+        "inputType": "Date"
+    },
+    {
+        "label": "Contact",
+        "inputType": "Number"
+    },
+    {
+        "label": "Email",
+        "inputType": "Email"
+    },
+    {
+        "label": "PermAddress",
+        "inputType": "Text"
+    },
+    {
+        "label": "State",
+        "inputType": "Text"
+    },
+    {
+        "label": "City",
+        "inputType": "Text"
+    },
+    {
+        "label": "Country",
+        "inputType": "Text"
+    },
+    {
+        "label": "Postal/Zip Code",
+        "inputType": "Text"
+    },
+    {
+        "label": "Phone Number",
+        "inputType": "Text"
+    },
+    {
+        "label": "CurrAddress",
+        "inputType": "Text"
+    },
+    {
+        "label": "EmergencyName",
+        "inputType": "Text"
+    },
+    {
+        "label": "EmergencyRelation",
+        "inputType": "Text"
+    },
+    {
+        "label": "EmergencyContact",
+        "inputType": "Number"
+    },
+    {
+        "label": "MaritalStatus",
+        "inputType": "Text"
+    },
+    {
+        "label": "JobTitle",
+        "inputType": "Text"
+    },
+    {
+        "label": "Department",
+        "inputType": "Text"
+    },
+    {
+        "label": "EmpID",
+        "inputType": "Text"
+    },
+    {
+        "label": "DOJ",
+        "inputType": "Date"
+    },
+    {
+        "label": "Manager",
+        "inputType": "Text"
+    },
+    {
+        "label": "WorkSched",
+        "inputType": "Text"
+    },
+    {
+        "label": "EmpType",
+        "inputType": "Text"
+    },
+    {
+        "label": "EmpStatus",
+        "inputType": "Text"
+    },
+    {
+        "label": "PrevEmp",
+        "inputType": "Text"
+    },
+    {
+        "label": "Salary",
+        "inputType": "Number"
+    },
+    {
+        "label": "BankDetails",
+        "inputType": "Text"
+    },
+    {
+        "label": "TaxID",
+        "inputType": "Number"
+    },
+    {
+        "label": "Bonuses",
+        "inputType": "Number"
+    },
+    {
+        "label": "Benefits",
+        "inputType": "Text"
+    },
+    {
+        "label": "PrevRoles",
+        "inputType": "Text"
+    },
+    {
+        "label": "Education",
+        "inputType": "Text"
+    },
+    {
+        "label": "Certifications",
+        "inputType": "Text"
+    },
+    {
+        "label": "Skills",
+        "inputType": "Text"
+    },
+    {
+        "label": "Languages",
+        "inputType": "Text"
+    },
+    {
+        "label": "Nationality",
+        "inputType": "Text"
+    },
+    {
+        "label": "EmergencyInfo",
+        "inputType": "Text"
+    },
+    {
+        "label": "WorkPerm",
+        "inputType": "Text"
+    },
+    {
+        "label": "MedConditions",
+        "inputType": "Text"
+    },
+    {
+        "label": "PassportNo",
+        "inputType": "Text"
+    },
+    {
+        "label": "NationalID",
+        "inputType": "Text"
+    },
+    {
+        "label": "SSN",
+        "inputType": "Text"
+    },
+    {
+        "label": "DLNumber",
+        "inputType": "Text"
+    },
+    {
+        "label": "VoterID",
+        "inputType": "Text"
+    },
+    {
+        "label": "HealthID",
+        "inputType": "Text"
+    },
+    {
+        "label": "TaxFileNo",
+        "inputType": "Text"
+    },
+    {
+        "label": "WorkPermitID",
+        "inputType": "Text"
+    },
+    {
+        "label": "BankAccNo",
+        "inputType": "Text"
+    },
+    {
+        "label": "EmpTaxNo",
+        "inputType": "Text"
+    },
+    {
+        "label": "HousingDocID",
+        "inputType": "Text"
+    },
+    {
+        "label": "ContractNo",
+        "inputType": "Text"
+    },
+    {
+        "label": "EmpVerID",
+        "inputType": "Text"
+    },
+    {
+        "label": "DegreeDocNo",
+        "inputType": "Text"
+    },
+    {
+        "label": "ReservationID",
+        "inputType": "Text"
+    },
+    {
+        "label": "ReservationDate",
+        "inputType": "Date"
+    },
+    {
+        "label": "ReservationTime",
+        "inputType": "Time"
+    },
+    {
+        "label": "NumberOfPeople",
+        "inputType": "Number"
+    },
+    {
+        "label": "SpecialRequests",
+        "inputType": "Text"
+    },
+    {
+        "label": "PaymentMethod",
+        "inputType": "Text"
+    },
+    {
+        "label": "CreditCardNumber",
+        "inputType": "Text"
+    },
+    {
+        "label": "References",
+        "inputType": "Text"
+    },
+    {
+        "label": "Recommendation",
+        "inputType": "Text"
+    },
+    {
+        "label": "EmployeeFeedback",
+        "inputType": "Text"
+    },
+    {
+        "label": "ExpenseDate",
+        "inputType": "Date"
+    },
+    {
+        "label": "ExpenseType",
+        "inputType": "Text"
+    },
+    {
+        "label": "Amount",
+        "inputType": "Number"
+    },
+    {
+        "label": "PaymentMethod",
+        "inputType": "Text"
+    },
+    {
+        "label": "ExpenseDescription",
+        "inputType": "Text"
+    },
+    {
+        "label": "IncidentID",
+        "inputType": "Text"
+    },
+    {
+        "label": "DateOfIncident",
+        "inputType": "Date"
+    },
+    {
+        "label": "IncidentDescription",
+        "inputType": "Text"
+    },
+    {
+        "label": "Location",
+        "inputType": "Text"
+    },
+    {
+        "label": "Witnesses",
+        "inputType": "Text"
+    },
+    {
+        "label": "ActionsTaken",
+        "inputType": "Text"
+    },
+    {
+        "label": "LeaveStartDate",
+        "inputType": "Date"
+    },
+    {
+        "label": "LeaveEndDate",
+        "inputType": "Date"
+    },
+    {
+        "label": "ReasonForLeave",
+        "inputType": "Text"
+    },
+    {
+        "label": "BillingCompanyName",
+        "inputType": "Text"
+    },
+    {
+        "label": "BillingAddress",
+        "inputType": "Text"
+    },
+    {
+        "label": "InvoiceNumber",
+        "inputType": "Text"
+    },
+    {
+        "label": "IssueDate",
+        "inputType": "Date"
+    },
+    {
+        "label": "DueDate",
+        "inputType": "Date"
+    },
+    {
+        "label": "Amount",
+        "inputType": "Number"
+    },
+    {
+        "label": "WaiverDescription",
+        "inputType": "Text"
+    },
+    {
+        "label": "Signature",
+        "inputType": "Text"
+    },
+    {
+        "label": "Date",
+        "inputType": "Date"
+    },
+    {
+        "label": "DonationAmount",
+        "inputType": "Number"
+    },
+    {
+        "label": "DonationDate",
+        "inputType": "Date"
+    },
+    {
+        "label": "DonorName",
+        "inputType": "Text"
+    },
+    {
+        "label": "DonorEmail",
+        "inputType": "Email"
+    },
+    {
+        "label": "VolunteerName",
+        "inputType": "Text"
+    },
+    {
+        "label": "VolunteerContact",
+        "inputType": "Number"
+    },
+    {
+        "label": "VolunteerEmail",
+        "inputType": "Email"
+    },
+    {
+        "label": "FullName",
+        "inputType": "Text",
+        "value": "John Doe"
+    },
+    {
+        "label": "Gender",
+        "inputType": "Text",
+        "value": "Male"
+    },
+    {
+        "label": "DateOfBirth",
+        "inputType": "Date",
+        "value": "1985-04-15"
+    },
+    {
+        "label": "ContactNumber",
+        "inputType": "Number",
+        "value": "1234567890"
+    },
+    {
+        "label": "EmailAddress",
+        "inputType": "Text",
+        "value": "johndoe@example.com"
+    },
+    {
+        "label": "PermanentAddress",
+        "inputType": "Text",
+        "value": "123 Main St, Springfield, IL"
+    },
+    {
+        "label": "CurrentAddress",
+        "inputType": "Text",
+        "value": "456 Oak Ave, Springfield, IL"
+    },
+    {
+        "label": "EmergencyContactName",
+        "inputType": "Text",
+        "value": "Jane Doe"
+    },
+    {
+        "label": "EmergencyContactRelationship",
+        "inputType": "Text",
+        "value": "Spouse"
+    },
+    {
+        "label": "EmergencyContactNumber",
+        "inputType": "Number",
+        "value": "9876543210"
+    },
+    {
+        "label": "MaritalStatus",
+        "inputType": "Text",
+        "value": "Married"
+    },
+    {
+        "label": "Nationality",
+        "inputType": "Text",
+        "value": "American"
+    },
+    {
+        "label": "SocialSecurityNumber",
+        "inputType": "Text",
+        "value": "123-45-6789"
+    },
+    {
+        "label": "PassportNumber",
+        "inputType": "Text",
+        "value": "X12345678"
+    },
+    {
+        "label": "DriverLicenseNumber",
+        "inputType": "Text",
+        "value": "D123-456-789"
+    },
+    {
+        "label": "VoterID",
+        "inputType": "Text",
+        "value": "A123-456-789"
+    },
+    {
+        "label": "HealthInsuranceID",
+        "inputType": "Text",
+        "value": "HI1234567890"
+    },
+    {
+        "label": "BankAccountNumber",
+        "inputType": "Text",
+        "value": "9876543210"
+    },
+    {
+        "label": "TaxIdentificationNumber",
+        "inputType": "Text",
+        "value": "TIN123-456-789"
+    },
+    {
+        "label": "Occupation",
+        "inputType": "Text",
+        "value": "Software Engineer"
+    },
+    {
+        "label": "Employer",
+        "inputType": "Text",
+        "value": "ABC Technologies"
+    },
+    {
+        "label": "EmploymentStatus",
+        "inputType": "Text",
+        "value": "Full-time"
+    },
+    {
+        "label": "EmergencyContactAddress",
+        "inputType": "Text",
+        "value": "789 Elm St, Springfield, IL"
+    },
+    {
+        "label": "PhoneNumberType",
+        "inputType": "Text",
+        "value": "Mobile"
+    },
+    {
+        "label": "PreferredContactMethod",
+        "inputType": "Text",
+        "value": "Email"
+    },
+    {
+        "label": "EducationLevel",
+        "inputType": "Text",
+        "value": "Bachelor's Degree"
+    },
+    {
+        "label": "University",
+        "inputType": "Text",
+        "value": "University of Springfield"
+    },
+    {
+        "label": "GraduationYear",
+        "inputType": "Number",
+        "value": "2007"
+    },
+    {
+        "label": "LanguagesSpoken",
+        "inputType": "Text",
+        "value": "English, Spanish"
+    },
+    {
+        "label": "EmergencyContactEmail",
+        "inputType": "Text",
+        "value": "janedoe@example.com"
+    },
+    {
+        "label": "AlternativePhoneNumber",
+        "inputType": "Number",
+        "value": "1122334455"
+    },
+    {
+        "label": "PreferredLanguage",
+        "inputType": "Text",
+        "value": "English"
+    },
+    {
+        "label": "DateOfJoining",
+        "inputType": "Date",
+        "value": "2015-06-01"
+    },
+    {
+        "label": "EmployeeID",
+        "inputType": "Text",
+        "value": "EMP123456"
+    },
+    {
+        "label": "WorkLocation",
+        "inputType": "Text",
+        "value": "Springfield Office"
+    },
+    {
+        "label": "WorkSchedule",
+        "inputType": "Text",
+        "value": "9:00 AM - 5:00 PM"
+    },
+    {
+        "label": "ManagerName",
+        "inputType": "Text",
+        "value": "Sarah Smith"
+    },
+    {
+        "label": "WorkPermitID",
+        "inputType": "Text",
+        "value": "WP123456"
+    },
+    {
+        "label": "EmergencyContactWorkNumber",
+        "inputType": "Number",
+        "value": "123-555-9876"
+    },
+    {
+        "label": "HomeCountry",
+        "inputType": "Text",
+        "value": "USA"
+    },
+    {
+        "label": "HealthCondition",
+        "inputType": "Text",
+        "value": "None"
+    },
+    {
+        "label": "BloodType",
+        "inputType": "Text",
+        "value": "O+"
+    },
+    {
+        "label": "MedicalEmergencyContact",
+        "inputType": "Text",
+        "value": "Dr. John Smith"
+    },
+    {
+        "label": "Full Name",
+        "inputType": "Text"
+    },
+    {
+        "label": "First Name",
+        "inputType": "Text"
+    },
+    {
+        "label": "Last Name",
+        "inputType": "Text"
+    },
+    {
+        "label": "Middle Name",
+        "inputType": "Text"
+    },
+    {
+        "label": "Date of Birth",
+        "inputType": "Date"
+    },
+    {
+        "label": "Phone Number",
+        "inputType": "Number"
+    },
+    {
+        "label": "Email Address",
+        "inputType": "Text"
+    },
+    {
+        "label": "Address Line 1",
+        "inputType": "Text"
+    },
+    {
+        "label": "Address Line 2",
+        "inputType": "Text"
+    },
+    {
+        "label": "City",
+        "inputType": "Text"
+    },
+    {
+        "label": "State",
+        "inputType": "Text"
+    },
+    {
+        "label": "Zip Code",
+        "inputType": "Text"
+    },
+    {
+        "label": "Country",
+        "inputType": "Text"
+    },
+    {
+        "label": "Gender",
+        "inputType": "Text"
+    },
+    {
+        "label": "Nationality",
+        "inputType": "Text"
+    },
+    {
+        "label": "Marital Status",
+        "inputType": "Text"
+    },
+    {
+        "label": "Preferred Contact Method",
+        "inputType": "Text"
+    },
+    {
+        "label": "Emergency Contact Name",
+        "inputType": "Text"
+    },
+    {
+        "label": "Emergency Contact Number",
+        "inputType": "Number"
+    },
+    {
+        "label": "Relationship to Emergency Contact",
+        "inputType": "Text"
+    },
+    {
+        "label": "Occupation",
+        "inputType": "Text"
+    },
+    {
+        "label": "Company Name",
+        "inputType": "Text"
+    },
+    {
+        "label": "Work Phone Number",
+        "inputType": "Number"
+    },
+    {
+        "label": "Work Email Address",
+        "inputType": "Email"
+    },
+    {
+        "label": "Date of Hire",
+        "inputType": "Date"
+    },
+    {
+        "label": "Job Title",
+        "inputType": "Text"
+    },
+    {
+        "label": "Department",
+        "inputType": "Text"
+    },
+    {
+        "label": "Employee ID",
+        "inputType": "Text"
+    },
+    {
+        "label": "Manager's Name",
+        "inputType": "Text"
+    },
+    {
+        "label": "Manager's Email",
+        "inputType": "Email"
+    },
+    {
+        "label": "Manager's Phone",
+        "inputType": "Number"
+    },
+    {
+        "label": "Reason for Absence",
+        "inputType": "Text"
+    },
+    {
+        "label": "Leave Start Date",
+        "inputType": "Date"
+    },
+    {
+        "label": "Leave End Date",
+        "inputType": "Date"
+    },
+    {
+        "label": "Leave Type",
+        "inputType": "Text"
+    },
+    {
+        "label": "Documents Attached",
+        "inputType": "Text"
+    },
+    {
+        "label": "Medical History",
+        "inputType": "Text"
+    },
+    {
+        "label": "Known Allergies",
+        "inputType": "Text"
+    },
+    {
+        "label": "Current Medications",
+        "inputType": "Text"
+    },
+    {
+        "label": "Physician's Name",
+        "inputType": "Text"
+    },
+    {
+        "label": "Physician's Phone",
+        "inputType": "Number"
+    },
+    {
+        "label": "Emergency Medical Contact",
+        "inputType": "Text"
+    },
+    {
+        "label": "Date Signed",
+        "inputType": "Date"
+    },
+    {
+        "label": "Financial Institution",
+        "inputType": "Text"
+    },
+    {
+        "label": "Account Type",
+        "inputType": "Text"
+    },
+    {
+        "label": "Account Number",
+        "inputType": "Text"
+    },
+    {
+        "label": "Routing Number",
+        "inputType": "Text"
+    },
+    {
+        "label": "Bank Address",
+        "inputType": "Text"
+    },
+    {
+        "label": "Bank Phone Number",
+        "inputType": "Number"
+    },
+    {
+        "label": "Credit Card Number",
+        "inputType": "Text"
+    },
+    {
+        "label": "Expiration Date",
+        "inputType": "Date"
+    },
+    {
+        "label": "Security Code",
+        "inputType": "Text"
+    },
+    {
+        "label": "Billing Address",
+        "inputType": "Text"
+    },
+    {
+        "label": "Country of Residence",
+        "inputType": "Text"
+    },
+    {
+        "label": "Travel Dates",
+        "inputType": "Date"
+    },
+    {
+        "label": "Destination",
+        "inputType": "Text"
+    },
+    {
+        "label": "Accommodation Preferences",
+        "inputType": "Text"
+    },
+    {
+        "label": "Flight Preference",
+        "inputType": "Text"
+    },
+    {
+        "label": "Preferred Airlines",
+        "inputType": "Text"
+    },
+    {
+        "label": "Special Requirements",
+        "inputType": "Text"
+    },
+    {
+        "label": "Passport Number",
+        "inputType": "Text"
+    },
+    {
+        "label": "Passport Expiration Date",
+        "inputType": "Date"
+    },
+    {
+        "label": "Visa Type",
+        "inputType": "Text"
+    },
+    {
+        "label": "Visa Expiration Date",
+        "inputType": "Date"
+    },
+    {
+        "label": "Health Insurance Provider",
+        "inputType": "Text"
+    },
+    {
+        "label": "Policy Number",
+        "inputType": "Text"
+    },
+    {
+        "label": "Medical Conditions",
+        "inputType": "Text"
+    },
+    {
+        "label": "Dietary Restrictions",
+        "inputType": "Text"
+    },
+    {
+        "label": "Travel Insurance",
+        "inputType": "Text"
+    },
+    {
+        "label": "Travel Insurance Policy Number",
+        "inputType": "Text"
+    },
+    {
+        "label": "Travel Insurance Provider",
+        "inputType": "Text"
+    },
+    {
+        "label": "Hotel Reservation Number",
+        "inputType": "Text"
+    },
+    {
+        "label": "Airline Reservation Number",
+        "inputType": "Text"
+    },
+    {
+        "label": "Car Rental Reservation Number",
+        "inputType": "Text"
+    },
+    {
+        "label": "Company Event Name",
+        "inputType": "Text"
+    },
+    {
+        "label": "Event Date",
+        "inputType": "Date"
+    },
+    {
+        "label": "Event Location",
+        "inputType": "Text"
+    },
+    {
+        "label": "Special Event Requests",
+        "inputType": "Text"
+    },
+    {
+        "label": "Dietary Needs for Event",
+        "inputType": "Text"
+    },
+    {
+        "label": "Job Application Status",
+        "inputType": "Text"
+    },
+    {
+        "label": "Salary Expectations",
+        "inputType": "Text"
+    },
+    {
+        "label": "Start Date",
+        "inputType": "Date"
+    },
+    {
+        "label": "Previous Employer",
+        "inputType": "Text"
+    },
+    {
+        "label": "Previous Job Title",
+        "inputType": "Text"
+    },
+    {
+        "label": "Previous Job Description",
+        "inputType": "Text"
+    },
+    {
+        "label": "References",
+        "inputType": "Text"
+    },
+    {
+        "label": "Reference Name",
+        "inputType": "Text"
+    },
+    {
+        "label": "Reference Number",
+        "inputType": "Number"
+    },
+    {
+        "label": "Reference Email",
+        "inputType": "Email"
+    },
+    {
+        "label": "Skills and Certifications",
+        "inputType": "Text"
+    },
+    {
+        "label": "Languages Spoken",
+        "inputType": "Text"
+    },
+    {
+        "label": "Certifications",
+        "inputType": "Text"
+    },
+    {
+        "label": "Educational Qualifications",
+        "inputType": "Text"
+    },
+    {
+        "label": "Degree",
+        "inputType": "Text"
+    },
+    {
+        "label": "Institution Name",
+        "inputType": "Text"
+    },
+    {
+        "label": "Graduation Year",
+        "inputType": "Date"
+    },
+    {
+        "label": "Work Experience",
+        "inputType": "Text"
+    },
+    {
+        "label": "Availability",
+        "inputType": "Text"
+    },
+    {
+        "label": "Reason for Leaving",
+        "inputType": "Text"
+    },
+    {
+        "label": "Interview Comments",
+        "inputType": "Text"
+    },
+    {
+        "label": "Evaluation Date",
+        "inputType": "Date"
+    },
+    {
+        "label": "Interviewer's Name",
+        "inputType": "Text"
+    },
+    {
+        "label": "Interviewer's Comments",
+        "inputType": "Text"
+    },
+    {
+        "label": "Interview Rating",
+        "inputType": "Text"
+    },
+    {
+        "label": "Performance Evaluation Date",
+        "inputType": "Date"
+    },
+    {
+        "label": "Employee Rating",
+        "inputType": "Text"
+    },
+    {
+        "label": "Supervisor Comments",
+        "inputType": "Text"
+    },
+    {
+        "label": "Employee Comments",
+        "inputType": "Text"
+    },
+    {
+        "label": "Performance Metrics",
+        "inputType": "Text"
+    },
+    {
+        "label": "Training Needs",
+        "inputType": "Text"
+    },
+    {
+        "label": "Incident Date",
+        "inputType": "Date"
+    },
+    {
+        "label": "Incident Description",
+        "inputType": "Text"
+    },
+    {
+        "label": "Injuries",
+        "inputType": "Text"
+    },
+    {
+        "label": "Damage Report",
+        "inputType": "Text"
+    },
+    {
+        "label": "Witnesses",
+        "inputType": "Text"
+    },
+    {
+        "label": "Incident Severity",
+        "inputType": "Text"
+    },
+    {
+        "label": "Corrective Actions Taken",
+        "inputType": "Text"
+    },
+    {
+        "label": "Follow-up Actions",
+        "inputType": "Text"
+    },
+    {
+        "label": "Incident Report Completed By",
+        "inputType": "Text"
+    },
+    {
+        "label": "Date of Incident Report",
+        "inputType": "Date"
+    },
+    {
+        "label": "Supervisor's Name",
+        "inputType": "Text"
+    },
+    {
+        "label": "Supervisor's Comments",
+        "inputType": "Text"
+    },
+    {
+        "label": "Complaint Type",
+        "inputType": "Text"
+    },
+    {
+        "label": "Complaint Description",
+        "inputType": "Text"
+    },
+    {
+        "label": "Desired Resolution",
+        "inputType": "Text"
+    },
+    {
+        "label": "Complaint Filed Date",
+        "inputType": "Date"
+    },
+    {
+        "label": "Complaint Status",
+        "inputType": "Text"
+    },
+    {
+        "label": "Resolution Date",
+        "inputType": "Date"
+    },
+    {
+        "label": "Medical Consent",
+        "inputType": "Text"
+    },
+    {
+        "label": "Parent/Guardian Name",
+        "inputType": "Text"
+    },
+    {
+        "label": "Parent/Guardian Number",
+        "inputType": "Number"
+    },
+    {
+        "label": "Parent/Guardian Email",
+        "inputType": "Email"
+    },
+    {
+        "label": "Vaccination History",
+        "inputType": "Text"
+    },
+    {
+        "label": "Known Conditions",
+        "inputType": "Text"
+    },
+    {
+        "label": "Authorization to Treat",
+        "inputType": "Text"
+    },
+    {
+        "label": "Blood Type",
+        "inputType": "Text"
+    },
+    {
+        "label": "Health Conditions",
+        "inputType": "Text"
+    },
+    {
+        "label": "Previous Surgeries",
+        "inputType": "Text"
+    },
+    {
+        "label": "Family Health History",
+        "inputType": "Text"
+    },
+    {
+        "label": "Health Insurance Number",
+        "inputType": "Text"
+    },
+    {
+        "label": "Emergency Medical Contact Name",
+        "inputType": "Text"
+    },
+    {
+        "label": "Emergency Medical Contact Phone",
+        "inputType": "Number"
+    }
+]

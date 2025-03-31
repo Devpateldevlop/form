@@ -1,0 +1,19 @@
+<core:FragmentDefinition xmlns:form="sap.ui.layout.form"
+   xmlns="sap.m"
+   xmlns:core="sap.ui.core">
+   <Dialog
+   contentWidth="100%"
+   contentHeight="100%"
+   draggable="false"
+   resizable="true"
+   
+   id="preview"
+      title="Preview">
+      <content>
+ 
+      </content>
+      <beginButton>
+      <Button text="Cancel" press="previewcancel"></Button>
+      </beginButton>
+      </Dialog>
+</core:FragmentDefinition>

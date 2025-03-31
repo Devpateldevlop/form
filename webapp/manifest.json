@@ -14,6 +14,12 @@
       "id": "@sap/generator-fiori:basic",
       "version": "1.17.0",
       "toolsId": "bb8e068d-e804-4b14-8e6f-e1a55c9f0d74"
+    },
+    "dataSources": {
+      "formlabel":{
+        "type": "JSON",
+        "uri": "./model/data.json"
+      }
     }
   },
   "sap.ui": {
@@ -33,7 +39,7 @@
     }
   },
   "sap.ui5": {
-    "flexEnabled": true,
+    "flexEnabled": false,
     "dependencies": {
       "minUI5Version": "1.134.0",
       "libs": {
@@ -51,6 +57,14 @@
         "settings": {
           "bundleName": "form.i18n.i18n"
         }
+      },
+      "formlab":{
+        "dataSource": "formlabel",
+        "type": "sap.ui.model.json.JSONModel"
+      },
+      "selected":{
+        "type": "sap.ui.model.json.JSONModel"
+        
       }
     },
     "resources": {
@@ -79,12 +93,23 @@
           "target": [
             "TargetView1"
           ]
+        },
+        {
+          "name": "RouteView2",
+          "pattern": "View2",
+          "target": [
+            "TargetView2"
+          ]
         }
       ],
       "targets": {
         "TargetView1": {
           "id": "View1",
           "name": "View1"
+        },
+        "TargetView2": {
+          "id": "View2",
+          "name": "View2"
         }
       }
     },

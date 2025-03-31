@@ -1,0 +1,23 @@
+<core:FragmentDefinition xmlns:form="sap.ui.layout.form"
+   xmlns="sap.m"
+   xmlns:core="sap.ui.core">
+   <Dialog
+      title="Login">
+      <content>
+      <form:SimpleForm >
+      <form:content>
+      <Label text="Title"></Label>
+      <Input id="title"></Input>
+    
+      </form:content>
+      </form:SimpleForm>
+      </content>
+      <endButton>
+      
+      <Button text="Add Title" type="Emphasized" press="addtitle"></Button>
+    </endButton>
+      <beginButton>
+      <Button text="Cancel" press="previewcancel"></Button>
+      </beginButton>
+      </Dialog>
+</core:FragmentDefinition>
