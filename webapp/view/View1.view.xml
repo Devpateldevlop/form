@@ -67,7 +67,7 @@
                 <footer>
                     <OverflowToolbar >
                         <ToolbarSpacer ></ToolbarSpacer>
-                        <Input showValueHelp="true" width="50%" showValueStateMessage="false" valueHelpRequest="onFilterData"  valueHelpIconSrc="sap-icon://search" valueState="Information"></Input>
+                        <Input showValueHelp="true" width="50%" showValueStateMessage="false" placeholder="Search Field" valueHelpRequest="onFilterData"  valueHelpIconSrc="sap-icon://search" valueState="Information"></Input>
                           <!-- <SearchField search="onFilterData" width="50%" id="search"></SearchField> -->
                         <ToolbarSpacer ></ToolbarSpacer>
 
