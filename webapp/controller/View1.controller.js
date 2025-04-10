@@ -32,7 +32,7 @@ sap.ui.define([
             var sQuery = oEvent.getSource().getValue();
             var oList = this.getView().byId("maingl");
 
-            var oFilter = new Filter("label", FilterOperator.Contains, sQuery);
+            var oFilter = new sap.ui.model.Filter("label", sap.ui.model.FilterOperator.Contains, sQuery);
 
             var oBinding = oList.getBinding("content");
 

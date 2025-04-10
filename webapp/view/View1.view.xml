@@ -25,22 +25,16 @@
     <f:FlexibleColumnLayout defaultTransitionNameMidColumn="slide" id="cl" layout="OneColumn">
         <f:beginColumnPages>
 
-            <Page id="pag"  showHeader="false" title="" enableScrolling="false" titleAlignment="Center" floatingFooter="true">
-                <tnt:ToolHeader >
-                    <Title text="CREATE FORM" wrapping="false" id="productName">
-                        <layoutData>
-                            <OverflowToolbarLayoutData priority="Disappear"/>
-                        </layoutData>
-                    </Title>
-                    <ToolbarSpacer />
-                    <!-- <SearchField width="25rem" id="searchField" search="onFilterData">
-                        <layoutData>
-                            <OverflowToolbarLayoutData priority="Low" group="1"/>
-                        </layoutData>
-                    </SearchField> -->
-                    <ToolbarSpacer />
+            <Page id="pag"  showHeader="true" title="CREATE FORM" enableScrolling="false"  floatingFooter="true" >
+              
+                <headerContent>
                     <Button type="Default" text="Create Field" icon="sap-icon://add"></Button>
-                </tnt:ToolHeader>
+                </headerContent>
+                <subHeader>
+                <OverflowToolbar >
+                <SearchField width="50%" search="onFilterData" ></SearchField>
+                </OverflowToolbar>
+                </subHeader>
                 <content >
 
                     <ScrollContainer vertical="true" horizontal="true" height="500px">
@@ -67,7 +61,7 @@
                 <footer>
                     <OverflowToolbar >
                         <ToolbarSpacer ></ToolbarSpacer>
-                        <Input showValueHelp="true" width="50%" showValueStateMessage="false" placeholder="Search Field" valueHelpRequest="onFilterData"  valueHelpIconSrc="sap-icon://search" valueState="Information"></Input>
+                        <!-- <Input showValueHelp="true" width="50%" showValueStateMessage="false" placeholder="Search Field" valueHelpRequest="onFilterData"  valueHelpIconSrc="sap-icon://search" valueState="Information"></Input> -->
                           <!-- <SearchField search="onFilterData" width="50%" id="search"></SearchField> -->
                         <ToolbarSpacer ></ToolbarSpacer>
 
